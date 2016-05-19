@@ -30,7 +30,7 @@ struct Constants {
     
     // MARK: TMDB Parameter Values
     struct TMDBParameterValues {
-        static let ApiKey = "4e8bdccc3bb63cefbec21f936eca5651"
+        static let ApiKey = "f0b10ad2009836642d61d49a002b0ccc"
     }
     
     // MARK: TMDB Response Keys
